@@ -796,7 +796,7 @@ body{
     width: 95px;
     height: 95px;
 }
-#shop-container h2 {
+#shop-container-titre {
     margin-top: 90px;
 }
 
@@ -904,7 +904,7 @@ body{
         color: white;
       }
 
-      #shop-container h2{
+      #shop-container-titre{
         margin-top: 120px;
       }
      
